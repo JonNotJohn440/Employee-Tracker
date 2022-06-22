@@ -522,6 +522,6 @@ function addEmployee() {
 
 // Exit the application
 function quit() {
-  console.log("Goodbye!");
+  console.log("See Ya!");
   process.exit();
 }
